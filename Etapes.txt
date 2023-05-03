@@ -7,4 +7,8 @@ Projet avec Nextjs
 4. Créer mon contenu dans contentful
 5. Connexion avec mes clé API contentful => setting => API keys => add APIkeys
 6. Création fichier .env.local avec mes variables d'environnement
-7
+
+
+Pour le richText
+/////////////////
+=> npm i @contentful/rich-text-react-renderer
